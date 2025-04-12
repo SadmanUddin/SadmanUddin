@@ -17,4 +17,3 @@ Skills - HTML/ CSS/ C/ C++/ C#/JAVA SCRIPT
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-plt.savefig("my_chart.png")
