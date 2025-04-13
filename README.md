@@ -4,7 +4,7 @@ I'm a student who loves to code — simply because it's fun.Basically I'm into s
 Currently,pursuing bachelors in data science, protection, and cybersecurity.
 
 I'm not an expert, but In Sha Allah, I'll keep learning and growing.  
-My goal is to become a skilled developer and security enthusiast.
+My goal is to become a skilled developer and data analyst.
 
 I have basic skills in:
 - C, C++, C#
