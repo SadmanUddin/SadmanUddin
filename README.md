@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammed Sadman Uddin!
+# Hey guys, I'm Mohammed Sadman Uddin!
 
 I'm a student who loves to code — simply because it's fun.Basically I'm into software development and Data science.  
 Currently,pursuing bachelors in data science, protection, and cybersecurity.
