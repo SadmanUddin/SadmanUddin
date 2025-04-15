@@ -6,13 +6,13 @@ Currently,pursuing bachelors in data science, protection, and cybersecurity.
 I'm not an expert, but In Sha Allah, I'll keep learning and growing.  
 My goal is to become a skilled developer and data analyst.
 
-If you're working on an ASP.NET project and need help with site deployment.. feel free to shoot a text I'd be happy to assist and have a cup of tea.
+If you're working on an ASP.NET project and need help with site deployment or any kind of stack.. feel free to shoot a text I'd be happy to assist and have a cup of tea.Maybe i can learn something from you as well.
 
 
 Text me here :
-https://instagram.com/_sadmanuddin
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_sadmanuddin)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1Kt2thG32i/)
 
-https://facebook.com/SadmanUddin
 
 
 
