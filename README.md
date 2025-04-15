@@ -6,6 +6,16 @@ Currently,pursuing bachelors in data science, protection, and cybersecurity.
 I'm not an expert, but In Sha Allah, I'll keep learning and growing.  
 My goal is to become a skilled developer and data analyst.
 
+If you're working on an ASP.NET project and need help with site deployment.. feel free to shoot a text I'd be happy to assist and have a cup of tea.
+
+
+Text me here :
+https://instagram.com/_sadmanuddin
+
+https://facebook.com/SadmanUddin
+
+
+
 I have basic skills in:
 - C, C++, C#
 - HTML, CSS, JavaScript
