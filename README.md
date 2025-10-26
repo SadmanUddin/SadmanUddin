@@ -1,7 +1,6 @@
 # Hey guys, I'm Mohammed Sadman Uddin!
 
-I'm a student who loves to code — simply because it's fun.Basically I'm into software development and Data science.  
-Currently,pursuing bachelors in data science, protection, and cybersecurity.
+I'm a student who loves to code — simply because it's fun.Currently,pursuing bachelors in data science, protection, and cybersecurity.
 
 I'm not an expert, but In Sha Allah, I'll keep learning and growing.  
 My goal is to become a skilled developer and data analyst.
