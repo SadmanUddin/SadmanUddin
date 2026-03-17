@@ -33,6 +33,7 @@ Text me here :
   <img src="https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/Power%20Pivot-742774?style=for-the-badge&logoColor=white" />
   
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
