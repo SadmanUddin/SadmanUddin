@@ -5,7 +5,7 @@ I'm a student who loves to code — simply because it's fun.Currently,pursuing b
 I'm not an expert, but In Sha Allah, I'll keep learning and growing.  
 My goal is to grow my knowledge in data science, machine learning, and AI.
 
-![Codewars](https://www.codewars.com/users/SadmanUddin/badges/large)
+![Codewars](https://www.codewars.com/users/SadmanUddin/badges/small)
 
 If you're working on an ASP.NET project and need help with site deployment or any kind of stack.. feel free to shoot a text I'd be happy to assist and have a cup of tea.Maybe i can learn something from you as well.
 
