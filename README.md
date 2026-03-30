@@ -34,6 +34,7 @@ Text me here :
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/Power%20Pivot-742774?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
