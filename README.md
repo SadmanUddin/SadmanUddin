@@ -7,12 +7,14 @@ My goal is to grow my knowledge in data science, machine learning, and AI.
 
 ![Codewars](https://www.codewars.com/users/SadmanUddin/badges/small)
 
-If you're working on an ASP.NET project and need help with site deployment or any kind of stack.. feel free to shoot a text I'd be happy to assist and have a cup of tea.Maybe i can learn something from you as well.
 
+Connet with me here :
 
-Text me here :
+<a href="https://www.linkedin.com/in/sadman-uddin-820042368" target="_blank" rel="noopener noreferrer">
 
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 
+</a>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_sadmanuddin)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1Kt2thG32i/)
 
